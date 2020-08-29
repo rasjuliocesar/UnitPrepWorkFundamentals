@@ -105,7 +105,7 @@ public class Aluno {
 
 	@Override
 	public String toString() {
-		return "Aluno matricula = " + matricula + ", nome = " + nome + ", cpf = " + cpf + ", dataNascimento = "
+		return "Aluno matricula: " + matricula + ", nome = " + nome + ", cpf = " + cpf + ", dataNascimento = "
 				+ dataNascimento + ", sexo = " + sexo + ", endereco = " + endereco + ", cidade = " + cidade + ", uf = " + uf
 				+ ", turma = " + turma;
 	}

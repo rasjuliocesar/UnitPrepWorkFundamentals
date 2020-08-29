@@ -1,3 +1,4 @@
+//package
 package quesito.seis;
 
 public class Dependente {
